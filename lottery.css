@@ -1,0 +1,41 @@
+#h1 {
+	color: red;
+	text-align: center;
+}
+
+#two {
+	color: orange;
+	text-align: center;
+	height: 50px;
+	width: 50px;
+	font-size: 50px;
+	float: left;
+	margin-left: 100px;
+}
+
+#three {
+	color: lime;
+	text-align: center;
+	height: 50px;
+	width: 50px;
+	font-size: 50px;
+	margin-left: 800px;
+}
+
+#four {
+	color: green;
+	text-align: center;
+	height: 50px;
+	width: 50px;
+	font-size: 50px;
+	float: right;
+	margin-right: 100px;
+}
+
+#h2 {
+	color: aqua;
+}
+
+.body {
+	background-color: lightblue;
+}
